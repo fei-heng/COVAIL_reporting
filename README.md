@@ -1,4 +1,4 @@
-# Code Repository for Manuscript #5: Sequence Distance-Specific Neutralization Titer Correlates of COVID-19 in the COVAIL Trial
+# Code Repository for Heng et al. manuscript "Impact of SARS-CoV-2 genetic and antigenic heterogeneity on the neutralizing antibody titer correlate of risk in the COVAIL trial"
 
 ---
 
